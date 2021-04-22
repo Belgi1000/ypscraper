@@ -5,7 +5,7 @@ import time
 import threading
 from geopy.geocoders import Nominatim
 
-geolocator = Nominatim(user_agent="brucy688@gmail.com")
+geolocator = Nominatim(user_agent="ypgenius@gmail.com")
 
 main_list = []
 
